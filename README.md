@@ -10,3 +10,7 @@ Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Relational
 
 Microsoft.EntityFrameworkCore.Tools
+
+for more information click below link
+
+https://www.c-sharpcorner.com/article/install-entity-framework-core-with-empty-template-in-asp-net-mvc-core-3-0/
